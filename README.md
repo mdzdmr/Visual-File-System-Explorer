@@ -24,4 +24,3 @@ This project involves designing and implementing algorithms to visually represen
 Contributions to this project are welcome! Here are a few ways you can help improve the project:
 - Report issues and suggest enhancements.
 - Submit pull requests with bug fixes or new features.
-
